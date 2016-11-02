@@ -2,6 +2,7 @@ baseurl = "http://bendave.github.io/gemstones-and-crystals"
 languageCode = "en-us"
 title = "Sadhbh's Gemstones and Crystals"
 theme = "hugo-creative-theme"
+canonifyurls = "true"
 
 [params]
 
